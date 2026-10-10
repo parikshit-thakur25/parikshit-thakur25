@@ -69,7 +69,7 @@ interactive browser terminals, and intelligent healthcare diagnostic tools.
 
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :--- |
-| **🫀 CardioVision AI** | `Python` `Scikit-Learn` `Flask` `ML` | Clinical Heart Disease Risk Predictor with 94.2% accuracy on patient metrics. | [GitHub Repo](https://github.com/parikshit-thakur25/developer-portfolio) |
+| **🫀 CardioVision AI** | `Python` `Scikit-Learn` `Flask` `ML` | Clinical Heart Disease Risk Predictor with 94.2% accuracy on patient metrics. | [Live App](https://heart-disease-prediction-f37g.onrender.com) • [GitHub Repo](https://github.com/parikshit-thakur25/heart-disease-prediction) |
 | **⚡ Cyber Portfolio** | `Vanilla JS` `HTML5` `CSS Glassmorphism` | Handwriting splash preloader, interactive CLI terminal, PIN admin control panel & resume manager. | [Live Site](https://www.parikshit07.tech) • [Repo](https://github.com/parikshit-thakur25/developer-portfolio) |
 
 ---
