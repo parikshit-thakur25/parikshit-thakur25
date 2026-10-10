@@ -93,6 +93,9 @@ interactive browser terminals, and intelligent healthcare diagnostic tools.
   <a href="https://www.linkedin.com/in/parikshit-thakur-1a098a2a3">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Card"/>
   </a>
+  <a href="https://www.instagram.com/pump_manga.co">
+    <img src="https://img.shields.io/badge/Instagram-pump__manga.co-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Card"/>
+  </a>
   <a href="https://www.parikshit07.tech">
     <img src="https://img.shields.io/badge/Personal_Portfolio-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio Card"/>
   </a>
